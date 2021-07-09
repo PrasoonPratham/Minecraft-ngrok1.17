@@ -1,0 +1,1 @@
+ngrok.exe tcp -region in 25565

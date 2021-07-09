@@ -1,0 +1,70 @@
+[20:19:18] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[20:19:18] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[20:19:18] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[20:19:18] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[20:19:18] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[20:19:18] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[20:19:18] [main/INFO]: Reloading ResourceManager: Default
+[20:19:19] [Worker-Main-13/INFO]: Loaded 7 recipes
+[20:19:19] [Worker-Main-13/INFO]: Loaded 1137 advancements
+[20:19:20] [Server thread/INFO]: Starting minecraft server version 1.17
+[20:19:20] [Server thread/INFO]: Loading properties
+[20:19:20] [Server thread/INFO]: Default game type: SURVIVAL
+[20:19:20] [Server thread/INFO]: Generating keypair
+[20:19:20] [Server thread/INFO]: Starting Minecraft server on *:25565
+[20:19:20] [Server thread/INFO]: Using default channel type
+[20:19:21] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[20:19:21] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[20:19:21] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[20:19:21] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[20:19:21] [Server thread/INFO]: Preparing level "world"
+[20:19:21] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[20:19:21] [Worker-Main-10/INFO]: Preparing spawn area: 0%
+[20:19:21] [Worker-Main-14/INFO]: Preparing spawn area: 0%
+[20:19:22] [Worker-Main-9/INFO]: Preparing spawn area: 0%
+[20:19:22] [Worker-Main-9/INFO]: Preparing spawn area: 4%
+[20:19:23] [Worker-Main-14/INFO]: Preparing spawn area: 16%
+[20:19:23] [Worker-Main-13/INFO]: Preparing spawn area: 54%
+[20:19:24] [Server thread/INFO]: Time elapsed: 3125 ms
+[20:19:24] [Server thread/INFO]: Done (3.231s)! For help, type "help"
+[20:25:04] [Server thread/INFO]: Nilesh[/[0:0:0:0:0:0:0:1]:64654] logged in with entity id 85 at (675.172271016899, 70.0, -800.7436315862185)
+[20:25:04] [Server thread/INFO]: Nilesh joined the game
+[20:27:27] [Server thread/INFO]: <Nilesh> i afk
+[20:29:42] [Server thread/INFO]: Nilesh lost connection: Disconnected
+[20:29:42] [Server thread/INFO]: Nilesh left the game
+[20:29:43] [Server thread/INFO]: Nilesh[/[0:0:0:0:0:0:0:1]:62482] logged in with entity id 1577 at (572.014728461429, 71.0, -821.0593188391387)
+[20:29:43] [Server thread/INFO]: Nilesh joined the game
+[20:32:46] [Server thread/INFO]: Burru[/[0:0:0:0:0:0:0:1]:50163] logged in with entity id 2492 at (164.8184079393998, 77.0, -231.08540378782033)
+[20:32:46] [Server thread/INFO]: Burru joined the game
+[20:32:59] [Server thread/INFO]: <Nilesh> yo
+[20:33:00] [Server thread/INFO]: <Nilesh> i afk
+[20:33:02] [Server thread/INFO]: <Burru> yo
+[20:33:05] [Server thread/INFO]: <Burru> o ok
+[20:33:19] [Server thread/INFO]: <Burru> even i am going to eat dinner after some time
+[20:39:37] [Server thread/INFO]: Burru was shot by Skeleton
+[20:39:50] [Server thread/WARN]: Burru moved too quickly! 5.619498002962644,0.2712241076924897,-8.521112753099658
+[20:40:16] [Server thread/INFO]: Burru lost connection: Timed out
+[20:40:16] [Server thread/INFO]: Burru left the game
+[20:41:24] [Server thread/INFO]: Burru[/[0:0:0:0:0:0:0:1]:64105] logged in with entity id 5048 at (203.79137922513735, 78.17675927506424, -220.61343214669597)
+[20:41:24] [Server thread/INFO]: Burru joined the game
+[20:46:46] [Server thread/INFO]: Burru lost connection: Disconnected
+[20:46:46] [Server thread/INFO]: Burru left the game
+[21:18:49] [Server thread/INFO]: JoelPOG[/[0:0:0:0:0:0:0:1]:59325] logged in with entity id 6834 at (201.9220202367273, 77.0, -203.32231107324148)
+[21:18:49] [Server thread/INFO]: JoelPOG joined the game
+[21:19:20] [Server thread/INFO]: Nilesh fell from a high place
+[21:19:22] [Server thread/WARN]: Nilesh moved too quickly! 94.32496752243969,-30.5,10.046409738089892
+[21:19:31] [Server thread/INFO]: <JoelPOG> u ok bruv
+[21:19:33] [Server thread/INFO]: <Nilesh> ye
+[21:19:38] [Server thread/INFO]: <JoelPOG> nice
+[21:19:55] [Server thread/INFO]: Nilesh lost connection: Disconnected
+[21:19:55] [Server thread/INFO]: Nilesh left the game
+[21:21:04] [Server thread/INFO]: Nilesh[/[0:0:0:0:0:0:0:1]:52585] logged in with entity id 7711 at (515.0361167274796, 64.0, -836.0844451324982)
+[21:21:04] [Server thread/INFO]: Nilesh joined the game
+[21:23:05] [Server thread/INFO]: JoelPOG lost connection: Disconnected
+[21:23:05] [Server thread/INFO]: JoelPOG left the game
+[21:23:27] [Server thread/INFO]: Nilesh lost connection: Disconnected
+[21:23:27] [Server thread/INFO]: Nilesh left the game
+[21:23:33] [Server thread/INFO]: Nilesh[/[0:0:0:0:0:0:0:1]:49336] logged in with entity id 8570 at (474.25455043736787, 101.125, -824.307239745214)
+[21:23:33] [Server thread/INFO]: Nilesh joined the game
+[21:25:56] [Server thread/INFO]: Nilesh lost connection: Disconnected
+[21:25:56] [Server thread/INFO]: Nilesh left the game
